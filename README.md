@@ -1,5 +1,5 @@
 
-Student Login System — BTCT 2B Group 3
+STUDENT LOGIN SYSTEM — BTCT 2B GROUP 3
 
 PROJECT OVERVIEW:
 This project is a backend web application built with **PHP sessions**.  
